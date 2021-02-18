@@ -1,0 +1,15 @@
+{
+  "name": "primertrabajo",
+  "version": "1.0.1",
+  "description": "primer trabajo",
+  "main": "index.js",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sindy florez sv.fz1991@gmail.com",
+  "license": "ISC"
+}
